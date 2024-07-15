@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Paddy156
+- 👋 Hi, I’m Paddy
 - 👀 I’m interested in data science and bioinformatics 
 - 🌱 I’m currently learning statistical analysis and R-coding language
 - 💞️ I’m looking to collaborate on R and python projects to further increase my knowledge and skills to show to potential employers 
